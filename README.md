@@ -1,5 +1,5 @@
 # Linear-Programming
-#### Trying to use different frameworks and solver on different problems
+#### Trying to use different frameworks and solvers on different problems
 
 
 According to some articles online
