@@ -6,7 +6,7 @@ According to some articles online
 #### https://www.quora.com/What-are-some-good-open-source-alternatives-to-CPLEX-linear-program-solver
 #### https://www.osti.gov/biblio/1104761
 #### http://www.tdp.cat/issues11/tdp.a114a12.pdf
-### https://www.sciencedirect.com/science/article/pii/S2211467X21001401
+#### https://www.sciencedirect.com/science/article/pii/S2211467X21001401
 
 
 List of Linear Program Solver:
