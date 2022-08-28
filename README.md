@@ -21,5 +21,4 @@ List of Linear Program Solver:
   
  
   ![image](https://user-images.githubusercontent.com/42282750/187087105-16e4b690-e5e4-4d35-b02f-364fcd4297f2.png)
-  Captured from: Udemy Optimization with Python Solve Operations Research Problems
-  #### https://www.udemy.com/course/optimization-with-python-linear-nonlinear-and-cplex-gurobi/
+  Captured from: [Udemy Optimization with Python Solve Operations Research Problems](https://www.udemy.com/course/optimization-with-python-linear-nonlinear-and-cplex-gurobi/)
