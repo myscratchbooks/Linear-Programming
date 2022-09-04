@@ -1,4 +1,4 @@
-# Linear-Programming
+# Optimization /Linear-Programming
 #### Trying to use different frameworks and solvers on different problems
 
 
