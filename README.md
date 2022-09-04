@@ -26,3 +26,12 @@ List of Linear Program Solver:
 ## Optimization Problem Types
 ![NEOS_Guide](https://user-images.githubusercontent.com/42282750/188330610-fbdb0871-2aff-47a5-b099-f5029795e3f2.jpg)
 Captured from: https://neos-guide.org/guide/types/
+
+In the figure below we can see the difference between local and global minimum. Optimization algorithms aim to find the global optimum result. However, not all the solvers managed to reach the global optimum. Some solvers stuck on the local minimum or couldn’t find the global minimum in reasonable time and computational resources.
+Captured from: https://python.plainenglish.io/applied-optimization-in-python-using-pyomo-3e11c7d08cc3
+
+![image](https://user-images.githubusercontent.com/42282750/188334476-520febc7-4977-49b9-b48c-7fa8fb40acca.png)
+
+In the table below, we can see the list of the solvers. In the last column, it is indicated whether the solver is global optima.
+![image](https://user-images.githubusercontent.com/42282750/188334483-b544e360-d5f5-43c5-9b20-ed708f37be9d.png)
+
