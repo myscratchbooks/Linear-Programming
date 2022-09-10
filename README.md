@@ -33,5 +33,6 @@ Captured from: https://python.plainenglish.io/applied-optimization-in-python-usi
 ![image](https://user-images.githubusercontent.com/42282750/188334476-520febc7-4977-49b9-b48c-7fa8fb40acca.png)
 
 In the table below, we can see the list of the solvers. In the last column, it is indicated whether the solver is global optima.
+
 ![image](https://user-images.githubusercontent.com/42282750/188334483-b544e360-d5f5-43c5-9b20-ed708f37be9d.png)
 
